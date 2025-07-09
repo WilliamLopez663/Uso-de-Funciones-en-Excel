@@ -6,7 +6,7 @@
 
 <p>La empresa de venta de ropa ModaEstilo S.A. ha registrado sus ventas durante el primer semestre del año. A continuación, se presentan los datos de las ventas realizadas:</p>
 
-<picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/datos.png></picture>
+<picture> <img src="https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel/blob/main/images/datos.png></picture>
 
 <p>A partir de estos datos, responde a las siguientes preguntas:</p>
 
