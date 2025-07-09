@@ -5,9 +5,9 @@
 ## Ejercicio
 
 <p>La empresa de venta de ropa ModaEstilo S.A. ha registrado sus ventas durante el primer semestre del año. A continuación, se presentan los datos de las ventas realizadas:</p>
-
-<picture> <img src="https://github.com/WilliamLopez663/Uso-de-Funciones-en-Excel/blob/main/images/datos.png></picture>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/datos.PNG">
+</p>
 <p>A partir de estos datos, responde a las siguientes preguntas:</p>
 
 -  ¿Cuál es el beneficio total por mes?
