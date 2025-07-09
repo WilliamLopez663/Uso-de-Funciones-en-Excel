@@ -1,2 +1,17 @@
 <h1 align="center"> Uso de Funciones en Excel CONTAR.SI, BUSCARV, POWER PIVOT, entre otras</h1>
-<p>Es este proyecto mostraré el uso de funciones como CONTAR.SI, SUMAR.SI, PROMEDIO.SI, BUSCARV, BUSCARH y POWER PIVOT como herramientas de excel para transformación de los datos</p>
+<p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI, PROMEDIO.SI, BUSCARV, BUSCARH y POWER PIVOT como herramientas de excel para transformación de los datos</p>
+<br>
+
+## Ejercicio
+
+<p>La empresa de venta de ropa ModaEstilo S.A. ha registrado sus ventas durante el primer semestre del año. A continuación, se presentan los datos de las ventas realizadas:</p>
+
+<picture> <img src="https://github.com/WilliamLopez663/WilliamLopez663/blob/main/images/datos.png></picture>
+
+<p>A partir de estos datos, responde a las siguientes preguntas:</p>
+
+-  ¿Cuál es el beneficio total por mes?
+- ¿Qué cliente compra más en la tienda?
+- ¿Cuál es el beneficio promedio por mes y por prenda?
+- ¿Cuántas prendas se han vendido cada mes?
+- ¿Cuál es el beneficio total obtenido por Comunidad Autónoma?
