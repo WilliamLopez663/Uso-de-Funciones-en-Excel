@@ -2,7 +2,7 @@
 <p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI, PROMEDIO.SI, BUSCARV, BUSCARH y POWER PIVOT como herramientas de excel para transformación de los datos</p>
 <br>
 
-## Ejercicio
+## :bookmark_tabs: Ejercicio
 
 <p>La empresa de venta de ropa ModaEstilo S.A. ha registrado sus ventas durante el primer semestre del año. A continuación, se presentan los datos de las ventas realizadas:</p>
 <p align="center">
@@ -10,8 +10,21 @@
 </p>
 <p>A partir de estos datos, responde a las siguientes preguntas:</p>
 
--  ¿Cuál es el beneficio total por mes?
+- ¿Cuál es el beneficio total por mes?
 - ¿Qué cliente compra más en la tienda?
 - ¿Cuál es el beneficio promedio por mes y por prenda?
 - ¿Cuántas prendas se han vendido cada mes?
 - ¿Cuál es el beneficio total obtenido por Comunidad Autónoma?
+<br>
+
+### SUMAR.SI
+
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si.PNG">
+
+- Rango: Rango donde se encuentran nuestros criterios
+- Criterio: Condición para realizar la suma.
+- Rango_suma: Rango donde se va a realizar la suma si se cumple la condición.
+
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-ejecutando.PNG">
+
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
