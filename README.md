@@ -24,7 +24,12 @@
 - Rango: Rango donde se encuentran nuestros criterios
 - Criterio: Condición para realizar la suma.
 - Rango_suma: Rango donde se va a realizar la suma si se cumple la condición.
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-ejecutando.png">
+</p>
 
-<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-ejecutando.PNG">
+Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
+</p>
