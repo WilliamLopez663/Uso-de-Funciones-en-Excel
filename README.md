@@ -33,3 +33,12 @@ Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
 </p>
+
+
+### SUMAR.SI
+
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
+
+Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
+
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-final.PNG">
