@@ -19,7 +19,8 @@
 
 ### SUMAR.SI
 
-<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si.PNG">
+La funcion `SUMAR.SI` usa los siguientes criterios:
+<p><img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si.PNG"></p>
 
 - Rango: Rango donde se encuentran nuestros criterios
 - Criterio: Condición para realizar la suma.
@@ -28,29 +29,36 @@
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-ejecutando.png">
 </p>
 
-Tras ejecutar la función `SUMAR.SI` este es nuestro resultado.
+Ejecutando la función `SUMAR.SI`.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
 </p>
 
-- Se obtiene el beneficio total por mes.
+Tras ejecutar la función `SUMAR.SI` obtenesmos el beneficio total por mes.
+
 <br>
 
 ### CONTAR.SI
 
-La funcion `CONTAR.SI` usa los mismos criterios que la funcion `SUMAR.SI`.
+La funcion `CONTAR.SI` usa los siguientes criterios:
+
+<p><img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si.PNG"></p>
+
+- Rango: Rango donde se encuentran nuestros criterios
+- Criterio: Condición para realizar la suma.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
 </p>
 
-Tras ejecutar la función `CONTAR.SI` este es nuestro resultado.
+Ejecutando la función `CONTAR.SI`.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-final.PNG">
 </p>
 
-- Tenemos entonces que el cliente que mas compra en la tienda es Ana Martinez.
+Tras ejecutar la función `CONTAR.SI` obtenemos que el cliente que mas compra en la tienda es Ana Martinez.
 
 
 
