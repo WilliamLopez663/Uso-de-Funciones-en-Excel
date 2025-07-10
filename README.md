@@ -35,7 +35,7 @@ Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
 </p>
 
 
-### SUMAR.SI
+### CONTAR.SI
 
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
 
