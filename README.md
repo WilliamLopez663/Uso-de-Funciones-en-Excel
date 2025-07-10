@@ -34,9 +34,11 @@ Tras ejecutar la función `SUMAR.SI` este es nuestro resultado.
 </p>
 
 - Se obtiene el beneficio total por mes.
-
+<br>
 
 ### CONTAR.SI
+
+La funcion `CONTAR.SI` usa los mismos criterios que la funcion `SUMAR.SI`.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
