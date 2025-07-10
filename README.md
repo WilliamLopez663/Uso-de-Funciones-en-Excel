@@ -1,5 +1,5 @@
 <h1 align="center"> Uso de Funciones en Excel CONTAR.SI, SUMAR.SI y PROMEDIO.SI</h1>
-<p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI y PROMEDIO.SI, como herramientas de excel para transformación de los datos</p>
+<p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI y PROMEDIO.SI como herramientas de excel para transformación de los datos</p>
 <br>
 
 ## :bookmark_tabs: Ejercicio
