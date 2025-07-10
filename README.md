@@ -57,7 +57,7 @@ Ejecutando la función `CONTAR.SI`.
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-final.PNG">
 </p>
 
-Tras ejecutar la función `CONTAR.SI` obtenemos que el cliente que mas compra en la tienda es Ana Martinez.
+Tras ejecutar la función `CONTAR.SI` obtenemos que el cliente que mas fue a la tienda a comprar es Ana Martinez.
 
 ### PROMEDIO.SI
 
@@ -80,3 +80,12 @@ Ejecutando la función `PROMEDIO.SI`.
 </p>
 
 Tras ejecutar la función `PROMEDIO.SI` obtenemos nuestro promedio de ventas por mes siendo abril el mes con mejores ventas promedio.
+
+
+Finalmente tras ejecutar nuevamente promedio.si para obtener el beneficio por departamento esta es nuestro resultado total.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/final.PNG">
+</p>
+
+
