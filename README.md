@@ -1,5 +1,5 @@
 <h1 align="center"> Uso de Funciones en Excel CONTAR.SI, BUSCARV, POWER PIVOT, entre otras</h1>
-<p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI, PROMEDIO.SI, BUSCARV, BUSCARH y POWER PIVOT como herramientas de excel para transformación de los datos</p>
+<p>Es este proyecto mostraré a traves de un ejercicios el uso de funciones como CONTAR.SI, SUMAR.SI y PROMEDIO.SI, como herramientas de excel para transformación de los datos</p>
 <br>
 
 ## :bookmark_tabs: Ejercicio
@@ -12,9 +12,8 @@
 
 - ¿Cuál es el beneficio total por mes?
 - ¿Qué cliente compra más en la tienda?
-- ¿Cuál es el beneficio promedio por mes y por prenda?
-- ¿Cuántas prendas se han vendido cada mes?
-- ¿Cuál es el beneficio total obtenido por Comunidad Autónoma?
+- ¿Cuál es el beneficio promedio por mes?
+- ¿Cuál es el beneficio total obtenido por departamento?
 <br>
 
 ### SUMAR.SI
@@ -60,6 +59,24 @@ Ejecutando la función `CONTAR.SI`.
 
 Tras ejecutar la función `CONTAR.SI` obtenemos que el cliente que mas compra en la tienda es Ana Martinez.
 
+### PROMEDIO.SI
 
+La funcion `PROMEDIO.SI` usa los siguientes criterios:
 
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/promedio-si.PNG">
 
+- Rango: Rango donde se encuentran nuestros criterios
+- Criterio: Condición para realizar el promedio.
+- Rango_promedio: Rango donde se va a realizar el promedio si se cumple la condición.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/promedio-si-ejecutando.PNG">
+</p>
+
+Ejecutando la función `PROMEDIO.SI`.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/promedio-si-final.PNG">
+</p>
+
+Tras ejecutar la función `PROMEDIO.SI` obtenemos nuestro promedio de ventas por mes siendo abril el mes con mejores ventas promedio.
