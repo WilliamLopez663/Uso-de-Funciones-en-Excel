@@ -29,10 +29,11 @@
 </p>
 
 Tras ejecutar la función `SUMAR.SI` este es nuestro resultado.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
 </p>
+
+- Se obtiene el beneficio total por mes.
 
 
 ### CONTAR.SI
@@ -46,6 +47,8 @@ Tras ejecutar la función `CONTAR.SI` este es nuestro resultado.
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-final.PNG">
 </p>
+
+- Tenemos entonces que el cliente que mas compra en la tienda es Ana Martinez.
 
 
 
