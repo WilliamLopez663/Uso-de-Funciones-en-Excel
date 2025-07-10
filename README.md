@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-ejecutando.png">
 </p>
 
-Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
+Tras ejecutar la función `SUMAR.SI` este es nuestro resultado.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/sumar-si-final.PNG">
@@ -37,8 +37,16 @@ Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
 
 ### CONTAR.SI
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
+</p>
 
-Tras ejecutar la función `SUMAR.SI` este es nuestro resultado
+Tras ejecutar la función `CONTAR.SI` este es nuestro resultado.
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-final.PNG">
+</p>
+
+
+
+
