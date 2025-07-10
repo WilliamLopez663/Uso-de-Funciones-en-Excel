@@ -43,10 +43,10 @@ Tras ejecutar la función `SUMAR.SI` obtenesmos el beneficio total por mes.
 
 La funcion `CONTAR.SI` usa los siguientes criterios:
 
-<p><img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si.PNG"></p>
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si.PNG">
 
 - Rango: Rango donde se encuentran nuestros criterios
-- Criterio: Condición para realizar la suma.
+- Criterio: Condición para realizar el conteo.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/contar-si-ejecutando.PNG">
