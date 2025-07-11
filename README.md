@@ -70,7 +70,9 @@ La funcion `PROMEDIO.SI` usa los siguientes criterios:
 - Rango_promedio: Rango donde se va a realizar el promedio si se cumple la condición.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/promedio-si-ejecutando.PNG">
+  
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/images/promedio-si-ejecutando.png">
+
 </p>
 
 Ejecutando la función `PROMEDIO.SI`.
